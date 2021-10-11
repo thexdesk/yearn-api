@@ -37,7 +37,7 @@
     "@ethersproject/address": "^5.4.0",
     "@ethersproject/bignumber": "^5.4.1",
     "@ethersproject/contracts": "^5.4.0",
-    "@ethersproject/providers": "^5.4.2",
+    "@ethersproject/providers": "^5.4.5",
     "@ladjs/graceful": "^1.0.5",
     "@yfi/sdk": "^1.0.0-13",
     "abstract-cache": "^1.0.1",
